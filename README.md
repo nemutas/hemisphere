@@ -1,17 +1,6 @@
-# hemisphere
+# About
+inspired by [pinterest idea](https://pin.it/5tBr2gA).
 
-```
-gh repo clone nemutas/hemisphere
-```
+https://nemutas.github.io/hemisphere/
 
-```
-npm install
-```
-
-# using
-
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
-- [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl)
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
+<img src='https://user-images.githubusercontent.com/46724121/220057380-998c4b6f-d7b9-428f-add1-b3be450c58f1.jpg' width='600' />
